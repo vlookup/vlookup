@@ -1,16 +1,20 @@
-## Hi there 👋
+# Patrick Wheeler
 
-<!--
-**vlookup/vlookup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Integration & Analytics Engineering  
+SQL‑first workflows • Python pipelines • Healthcare data systems
 
-Here are some ideas to get you started:
+I build reliable, reproducible analytics pipelines using SQL, Python, DuckDB, and Power BI.  
+My work focuses on data quality, integration, and operational reporting across healthcare and enterprise environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Core Skills
+- SQL (Teradata, SQL Server, Postgres, Oracle, Athena)
+- Python (pandas), DuckDB, Parquet
+- Data modeling, ETL validation, data quality auditing
+- Power BI, Tableau, Business Objects, Excel
+
+## 📂 Featured Projects
+- **CDC Wastewater Viral Load Pipeline**  
+  End‑to‑end API ingestion → DuckDB transformations → Parquet storage → Power BI dashboard  
+  *(Pinned above)*
+
+More projects coming soon.
